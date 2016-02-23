@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./introductioadph01lulogoog_0014.png"; bbox 0 0 1221 2063; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 244 393 788 926">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 244 393 788 926">
+     <span class='ocr_line' id='line_1_1' title="bbox 244 393 788 926; baseline 0 1137"><span class='ocrx_word' id='word_1_1' title='bbox 244 393 788 926; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 197 972 871 1023">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 197 972 871 1023">
+     <span class='ocr_line' id='line_1_2' title="bbox 197 972 871 1023; baseline 0.003 -8"><span class='ocrx_word' id='word_1_2' title='bbox 197 982 543 1020; x_wconf 81' lang='lat' dir='ltr'><em>SERENISSIMO‚</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 571 972 871 1023; x_wconf 71' lang='lat' dir='ltr'><em>CELSJSS&#39;JMo,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 155 1100 911 1171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 155 1100 911 1171">
+     <span class='ocr_line' id='line_1_3' title="bbox 155 1100 911 1171; baseline -0.004 -3"><span class='ocrx_word' id='word_1_4' title='bbox 155 1100 775 1170; x_wconf 86' lang='lat' dir='ltr'>WILHELMO</span> <span class='ocrx_word' id='word_1_5' title='bbox 826 1102 911 1171; x_wconf 89' lang='lat' dir='ltr'>V.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 213 1251 854 1302">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 213 1251 854 1302">
+     <span class='ocr_line' id='line_1_4' title="bbox 213 1251 854 1302; baseline 0.002 -17"><span class='ocrx_word' id='word_1_6' title='bbox 213 1251 504 1285; x_wconf 87' lang='lat' dir='ltr'>ARAUSIONUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 516 1274 525 1289; x_wconf 92' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 547 1252 854 1302; x_wconf 74' lang='lat' dir='ltr'><strong>NASSAVIAEQUE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 314 1348 909 1417">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 314 1348 909 1417">
+     <span class='ocr_line' id='line_1_5' title="bbox 314 1348 909 1417; baseline 0 -15"><span class='ocrx_word' id='word_1_9' title='bbox 314 1348 909 1417; x_wconf 12' lang='lat' dir='ltr'>PRI&#39;NCI&#39;P1V‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 559 1475 913 1504">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 559 1475 913 1504">
+     <span class='ocr_line' id='line_1_6' title="bbox 559 1475 913 1504; baseline -0.003 -5"><span class='ocrx_word' id='word_1_10' title='bbox 559 1478 599 1504; x_wconf 75' lang='lat'>†2</span> <span class='ocrx_word' id='word_1_11' title='bbox 825 1475 913 1498; x_wconf 78' lang='lat' dir='ltr'>BEL-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
